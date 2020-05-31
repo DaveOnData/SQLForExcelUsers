@@ -4,7 +4,7 @@ The GitHub repo for the "[Introduction to SQL for Excel Users](https://www.daveo
 
 This repo contains all the Excel and SQL files used throughout the series.
 
-Each file name is ends with a "PartX" format corresponding to the applicable blog post. 
+Each file name ends with a "PartX" format corresponding to the applicable blog post. 
 
 For example, "SQLForExcelUsersPart2.xslx" corresponds to the 2nd post in the blog series.
 
