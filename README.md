@@ -1,6 +1,6 @@
 # SQLForExcelUsers
 
-The GitHub repo for the "[Introduction to SQL for Excel Users](https://www.daveondata.com/blog/sql-for-excel-users-part-1/)" blog tutorial series from [DaveOnData.com](https://www.daveondata.com)
+The GitHub repo for the "[Introduction to SQL for Excel Users](https://www.daveondata.com/blog/category/sql-for-excel-users/)" blog tutorial series from [DaveOnData.com](https://www.daveondata.com)
 
 This repo contains all the Excel and SQL files used throughout the series.
 
